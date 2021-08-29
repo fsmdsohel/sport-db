@@ -1,0 +1,11 @@
+#display-div {
+  display: none;
+}
+#spinner {
+  display: none;
+}
+
+.active {
+  display: flex;
+  height: 80vh;
+}
